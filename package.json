@@ -1,0 +1,29 @@
+{
+  "name": "legal-ease",
+  "version": "1.0.0",
+  "description": "LegalEase is a cutting-edge platform engineered to streamline access, refine filtering, and succinctly summarize legal content. Offering a user-centric interface coupled with robust search functionalities, LegalEase empowers users to seamlessly navigate an extensive array of legal resources, spanning court judgments, statutes, regulations, and more. Whether conducting thorough legal research, staying abreast of dynamic legal landscapes, or simplifying intricate legal concepts, LegalEase presents a comprehensive toolkit crafted to cater to the discerning needs of legal professionals, scholars, students, and enthusiasts alike.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickng9/legalease.git"
+  },
+  "keywords": [
+    "legal",
+    "law",
+    "content",
+    "platform",
+    "legal",
+    "research",
+    "court",
+    "cases"
+  ],
+  "author": "Nicholas Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickng9/legalease/issues"
+  },
+  "homepage": "https://github.com/nickng9/legalease#readme"
+}
